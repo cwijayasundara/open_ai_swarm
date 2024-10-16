@@ -1,0 +1,10 @@
+python-dotenv
+openai
+pydantic
+swarm
+pytest
+instructor
+qdrant-client
+pandas
+llama-index-llms-openai
+llama-index
